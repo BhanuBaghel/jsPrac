@@ -4,5 +4,6 @@ function printName(first, last) {
     } else {
         console.log(first);
     }
-return (first + " " + last);
+    console.log("running");
+    return (first + " " + last);
 }
