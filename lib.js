@@ -4,5 +4,6 @@ function printName(first, last) {
     } else {
         console.log(first);
     }
+    console.log("here");
 return (first + " " + last);
 }
